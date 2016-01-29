@@ -1,0 +1,13 @@
+{
+  "name": "plaaay",
+  "version": "0.0.1",
+  "description": "Personal playground",
+  "author": "mallari.janlester@gmail.com",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/janMallari/plaaay.git"
+  },
+  "devDependencies": {
+    "normalize.css": "^3.0.3"
+  }
+}
