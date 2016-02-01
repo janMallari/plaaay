@@ -8,6 +8,7 @@
     "url": "git://github.com/janMallari/plaaay.git"
   },
   "devDependencies": {
+    "bootstrap": "^4.0.0-alpha.2",
     "normalize.css": "^3.0.3"
   }
 }
