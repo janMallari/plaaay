@@ -21,7 +21,14 @@
 				<h1>
 					Aww! This website is hibernating...
 				</h1>
-				<p class="text-muted">Please shoot me an email at <a class="text-primary" href="mailto:mallari.janlester@gmail.com">mallari.janlester@gmail.com</a></p>
+				<p class="text-muted">Please shoot me an email at
+					<script language="JavaScript">
+						var username = "mallari.janlester";
+						var hostname = "gmail.com";
+						var linktext = username + "@" + hostname ;
+						document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" + linktext + "</a>");
+					</script>
+				</p>
 			</div>
 		</div>
 	</div>
